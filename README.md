@@ -11,21 +11,21 @@
 **DoB**: 11/24/2007
 
 **School**: High School of Telecommunication Arts and Technology
-* _Grade_: 10
+* Grade: _10_
 
 ---
 
 
 ## Hobbies
 
-* _Gaming_
-  * Minecraft
-* _Sleeping_
-* _Anime_
-  * Attack On Titan
-* _Suffering_
-  * Emotionally
-  * Mentally
+* Gaming
+  * _Minecraft_
+* Sleeping
+* Anime
+  * _Attack On Titan_
+* Suffering
+  * _Emotionally_
+  * _Mentally_
 
 ---
 
