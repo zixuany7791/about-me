@@ -20,13 +20,15 @@
 
 * Gaming
   * _Minecraft_
+    -  MINING AWAY
 * Sleeping
+    - ZZZZZ
 * Anime
   * _Attack On Titan_
 * Suffering
   * _Emotionally_
   * _Mentally_
-
+    - SAME
 ---
 
 ## Contact Infos
